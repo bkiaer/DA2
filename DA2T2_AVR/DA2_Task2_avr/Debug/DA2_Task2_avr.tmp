@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\Debug\DA2_Task2_avr.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2_Task2_avr.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2_Task2_avr.map</FILE>
+  <FILE>DA2_Task2_avr.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LOOP><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>14</LINE></LOOP>
+  <TOGGLE><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>22</LINE></TOGGLE>
+  <delay_250ms><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>47</LINE></delay_250ms>
+  <delay_1ms><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>31</LINE></delay_1ms>
+  <delay_1ms1><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>34</LINE></delay_1ms1>
+  <delay_250ms1><FILE>C:\Users\brian\Documents\Atmel Studio\7.0\DA2_Task2_avr\DA2_Task2_avr\main.asm</FILE><LINE>50</LINE></delay_250ms1>
+ </LABELS>
+</ASSEMBLER_INFO>
